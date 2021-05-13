@@ -10,6 +10,8 @@
 
 ---
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anirudhpnbb.anirudhpnbb)
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Scientist.
@@ -37,5 +39,3 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anirudhpnbb&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhpnbb&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anirudhpnbb.anirudhpnbb)
