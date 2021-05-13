@@ -1,4 +1,15 @@
-<h1>Hey, I'm Anirudh</h1>
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm P N Anirudh!
+</h3>
+
+
+---
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Scientist.
