@@ -16,7 +16,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Scientist.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
-- Currently working at [Intelytica](https://www.intelytica.com). I am a tech enthusiast. Feel free to connect with me here:
+- Currently working at [Salesforce](https://www.salesforce.com). I am a tech enthusiast. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pnbbanirudh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pnbbanirudh/)](https://www.linkedin.com/in/pnbbanirudh/)
 [![Instagram Badge](https://img.shields.io/badge/-anirudhpalaparthi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anirudhpalaparthi/)](https://instagram.com/anirudhpalaparthi)
