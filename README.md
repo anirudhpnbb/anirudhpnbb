@@ -25,6 +25,7 @@
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
