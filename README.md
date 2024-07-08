@@ -35,6 +35,7 @@
 <h2> 👨‍💼 Currently working on </h2>
 
 [Pyostie - Python Open Source text Information Extractor](https://github.com/anirudhpnbb/Pyostie)
+[VGOCR - VAE GAN OCR](https://github.com/anirudhpnbb/VGOCR)
 
 <h2> 🔢 Statistics: </h2>
 
