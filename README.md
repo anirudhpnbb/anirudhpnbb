@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm P N Anirudh!
+    I'm Anirudh Palaparthi!
 </h3>
 
 
@@ -35,6 +35,7 @@
 <h2> 👨‍💼 Currently working on </h2>
 
 [Pyostie - Python Open Source text Information Extractor](https://github.com/anirudhpnbb/Pyostie)
+
 [VGOCR - VAE GAN OCR](https://github.com/anirudhpnbb/VGOCR)
 
 <h2> 🔢 Statistics: </h2>
